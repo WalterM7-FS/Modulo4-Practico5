@@ -15,7 +15,7 @@ const Dashboard = () => {
         onClick={() => navigate('/')}
         className="px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-medium rounded-lg transition duration-300 mt-2"
       >
-        Back to Home
+        Regresar al Inicio
       </button>
       
     </div>
